@@ -1,0 +1,13 @@
+show dbs
+show db
+show dbs
+use firstview
+db.getCollection('candidatetransaction').update({}, {$set: {"reminderEmail": false}},false,true);
+use mytestdb
+show dbs
+show dbs
+use db mytest
+use mytest
+mongorestore --host 127.0.0.1 --port=45143 -u peekhireadmin -p thepeekhireadminpwd --authenticationDatabase admin --db firstview "/home/ec2-user/MongoBackUp/firstview_16_6_2021_Cmic_FAHRENHEIT_data_backup/firstviewprod"
+mongorestore --host 127.0.0.1 --port=45143 -u peekhireadmin -p thepeekhireadminpwd --authenticationDatabase admin --db firstview "/home/ec2-user/MongoBackUp/database_backup/firstviewprod"
+use mytestdb

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"firstviewprod.timeofreceipt"}],"uuid":"67e2f0f031864572a1728a4b2d335bb2"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"firstviewprod.organizationPlanDetails"}],"uuid":"3ed8cb0ac9374d25be8faae2447e4b6b"}

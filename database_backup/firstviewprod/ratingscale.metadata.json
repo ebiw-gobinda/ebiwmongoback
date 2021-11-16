@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"firstviewprod.ratingscale"}],"uuid":"35ac27d06b3c4d36bdd77121b207dc55"}

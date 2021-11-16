@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"firstviewprod.emailTransaction"}],"uuid":"ab0a63fdcd094d469637860173e7df80"}
